@@ -33,7 +33,6 @@
 
 #### Database schema
 
-```
 * Scope
     * table 1 - domains
         * column 1 - id
@@ -89,7 +88,13 @@
         * column 5 - payload
         * column 6 - vulnFamily
         * column 7 - output
-```
+    * table 8 - whatweb
+        * column 1 - id
+        * column 2 - _webUrl_
+        * column 3 - _path_
+        * column 4 - cmdUsed
+        * column 5 - output
+        * column 6 - timestamp
 
 ### Misc
 
